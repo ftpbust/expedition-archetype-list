@@ -6,3 +6,91 @@ a,b
 2021-12-13 15:54:25.286276
 a,b
 2021-12-13 15:54:38.036779
+UNKNOWN,sivir,2021-12-14 07:35:55.692661,"{'cards': ['sivir', 'desertnaturalist', 'weightofjudg'], 'pick': 1, 'archetype': '', 'ids': {...}}"
+UNKNOWN,desertnaturalist,2021-12-14 07:35:55.692661,"{'cards': ['sivir', 'desertnaturalist', 'weightofjudg'], 'pick': 1, 'archetype': '', 'ids': {...}}"
+UNKNOWN,weightofjudg,2021-12-14 07:35:55.693661,"{'cards': ['sivir', 'desertnaturalist', 'weightofjudg'], 'pick': 1, 'archetype': '', 'ids': {...}}"
+foxyninjas,kennenz,2021-12-14 07:35:55.693661
+foxyninjas,conchologistfil,2021-12-14 07:35:55.693661
+foxyninjas,lightningrush6,2021-12-14 07:35:55.693661
+otherworldlycreatures,trundle,2021-12-14 07:35:55.693661
+otherworldlycreatures,embermaiden,2021-12-14 07:35:55.693661
+otherworldlycreatures,trollravager,2021-12-14 07:35:55.693661
+lurkers,reksaice,2021-12-14 07:35:55.693661,"{'cards': ['reksaice', 'xersaihatchling', 'xersaicallera4'], 'pick': 2, 'archetype': 'lurkers', 'ids': {...}}"
+lurkers,xersaihatchling,2021-12-14 07:35:55.693661,"{'cards': ['reksaice', 'xersaihatchling', 'xersaicallera4'], 'pick': 2, 'archetype': 'lurkers', 'ids': {...}}"
+lurkers,xersaicallera4,2021-12-14 07:35:55.693661,"{'cards': ['reksaice', 'xersaihatchling', 'xersaicallera4'], 'pick': 2, 'archetype': 'lurkers', 'ids': {...}}"
+UNKNOWN,swainpagal,2021-12-14 07:35:55.693661
+UNKNOWN,bladesedgeof,2021-12-14 07:35:55.693661
+UNKNOWN,noxianfervor,2021-12-14 07:35:55.693661
+enlightenmenta,aniviaa,2021-12-14 07:35:55.693661
+enlightenmenta,flashfreezeay,2021-12-14 07:35:55.693661
+enlightenmenta,harshwinds,2021-12-14 07:35:55.693661
+yillereputationsneeee,payday,2021-12-14 07:35:55.693661,"{'cards': ['payday', 'innersanctum', ''], 'pick': 3, 'archetype': 'yillereputationsneeee', 'ids': {...}}"
+yillereputationsneeee,innersanctum,2021-12-14 07:35:55.693661,"{'cards': ['payday', 'innersanctum', ''], 'pick': 3, 'archetype': 'yillereputationsneeee', 'ids': {...}}"
+UNKNOWN,xersaidunebr,2021-12-14 07:35:55.693661
+UNKNOWN,weightofjudg4,2021-12-14 07:35:55.693661
+opportunityattackshl,strongarm,2021-12-14 07:35:55.693661
+opportunityattackshl,snapjawswarm,2021-12-14 07:35:55.693661
+esereputationsneeee,ruinedreckoner,2021-12-14 07:35:55.693661,"{'cards': ['ruinedreckoner', 'strengthinnu', ''], 'pick': 4, 'archetype': 'esereputationsneeee', 'ids': {...}}"
+esereputationsneeee,strengthinnu,2021-12-14 07:35:55.693661,"{'cards': ['ruinedreckoner', 'strengthinnu', ''], 'pick': 4, 'archetype': 'esereputationsneeee', 'ids': {...}}"
+UNKNOWN,vekauransafey,2021-12-14 07:35:55.693661
+UNKNOWN,sandstonechi,2021-12-14 07:35:55.693661
+geomancyi,ancienthourglid,2021-12-14 07:35:55.693661
+geomancyi,ancientprepar,2021-12-14 07:35:55.693661
+esereputationsneeee,treasureseeker,2021-12-14 07:35:55.693661,"{'cards': ['treasureseeker', 'trifarianhopeful', ''], 'pick': 5, 'archetype': 'esereputationsneeee', 'ids': {...}}"
+esereputationsneeee,trifarianhopeful,2021-12-14 07:35:55.693661,"{'cards': ['treasureseeker', 'trifarianhopeful', ''], 'pick': 5, 'archetype': 'esereputationsneeee', 'ids': {...}}"
+UNKNOWN,callthepack,2021-12-14 07:35:55.694661
+UNKNOWN,xersaicalleral,2021-12-14 07:35:55.694661
+noxianmighti,elixirofwrath,2021-12-14 07:35:55.694661
+noxianmighti,trifarianhopeful,2021-12-14 07:35:55.694661
+esescrapheapsneeee,noblerebel,2021-12-14 07:35:55.694661,"{'cards': ['noblerebel', 'roaroftheslayer', ''], 'pick': 6, 'archetype': 'esescrapheapsneeee', 'ids': {...}}"
+esescrapheapsneeee,roaroftheslayer,2021-12-14 07:35:55.694661,"{'cards': ['noblerebel', 'roaroftheslayer', ''], 'pick': 6, 'archetype': 'esescrapheapsneeee', 'ids': {...}}"
+incubators,khahirithestu,2021-12-14 07:35:55.694661
+vulnerablei,citruscourier,2021-12-14 07:35:55.694661
+vulnerablei,huntingfleet,2021-12-14 07:35:55.694661
+esereputationsneeee,ruinedreckoner,2021-12-14 07:35:55.694661,"{'cards': ['ruinedreckoner', 'sandstonechive', ''], 'pick': 7, 'archetype': 'esereputationsneeee', 'ids': {...}}"
+esereputationsneeee,sandstonechive,2021-12-14 07:35:55.694661,"{'cards': ['ruinedreckoner', 'sandstonechive', ''], 'pick': 7, 'archetype': 'esereputationsneeee', 'ids': {...}}"
+scrapheap,islaffectionateporo,2021-12-14 07:35:55.694661
+scrapheap,sharpenedress6,2021-12-14 07:35:55.694661
+lurkersa,chronoshift,2021-12-14 07:35:55.694661
+lurkersa,xersaicallera,2021-12-14 07:35:55.694661
+alilaerelictrackers,legiondrummer,2021-12-14 07:35:55.694661,"{'cards': ['legiondrummer', 'waananiweaponhilt4', ''], 'pick': 8, 'archetype': 'alilaerelictrackers', 'ids': {...}}"
+alilaerelictrackers,waananiweaponhilt4,2021-12-14 07:35:55.694661,"{'cards': ['legiondrummer', 'waananiweaponhilt4', ''], 'pick': 8, 'archetype': 'alilaerelictrackers', 'ids': {...}}"
+noxianmight,intimidatingroar,2021-12-14 07:35:55.694661
+noxianmight,whirlingdeath,2021-12-14 07:35:55.694661
+timelordsi,preservarium,2021-12-14 07:35:55.694661
+timelordsi,aspiringchrons7,2021-12-14 07:35:55.694661
+areputationsneeee,trifarianglory4,2021-12-14 07:35:55.694661,"{'cards': ['trifarianglory4', 'recklesstrifarian', ''], 'pick': 9, 'archetype': 'areputationsneeee', 'ids': {...}}"
+areputationsneeee,recklesstrifarian,2021-12-14 07:35:55.694661,"{'cards': ['trifarianglory4', 'recklesstrifarian', ''], 'pick': 9, 'archetype': 'areputationsneeee', 'ids': {...}}"
+UNKNOWN,xersaihatchlingi,2021-12-14 07:35:55.694661
+UNKNOWN,xersaicalleral,2021-12-14 07:35:55.694661
+relictrackersi,ssstheabsolveri,2021-12-14 07:35:55.694661
+relictrackersi,whirlingdeath,2021-12-14 07:35:55.694661
+vulnerableeee,baccaisandspi,2021-12-14 07:35:55.694661,"{'cards': ['baccaisandspi', 'callousbonecr', ''], 'pick': 10, 'archetype': 'vulnerableeee', 'ids': {...}}"
+vulnerableeee,callousbonecr,2021-12-14 07:35:55.694661,"{'cards': ['baccaisandspi', 'callousbonecr', ''], 'pick': 10, 'archetype': 'vulnerableeee', 'ids': {...}}"
+UNKNOWN,crimsonawaor,2021-12-14 07:35:55.694661
+UNKNOWN,legiongrenadier,2021-12-14 07:35:55.694661
+bladesandbuffsa,bladesquire9,2021-12-14 07:35:55.694661
+bladesandbuffsa,brothersbond4,2021-12-14 07:35:55.694661
+areputationsneeee,katothearm4,2021-12-14 07:35:55.694661,"{'cards': ['katothearm4', 'trifarianhopeful', ''], 'pick': 11, 'archetype': 'areputationsneeee', 'ids': {...}}"
+areputationsneeee,trifarianhopeful,2021-12-14 07:35:55.694661,"{'cards': ['katothearm4', 'trifarianhopeful', ''], 'pick': 11, 'archetype': 'areputationsneeee', 'ids': {...}}"
+vulnerable,ruinouspath,2021-12-14 07:35:55.694661
+vulnerable,callousbonecr,2021-12-14 07:35:55.694661
+lurkersa,callthepack,2021-12-14 07:35:55.694661
+ifeevulnerableeee,ruinouspath,2021-12-14 07:35:55.694661,"{'cards': ['ruinouspath', 'vekauransafe', ''], 'pick': 12, 'archetype': 'ifeevulnerableeee', 'ids': {...}}"
+ifeevulnerableeee,vekauransafe,2021-12-14 07:35:55.694661,"{'cards': ['ruinouspath', 'vekauransafe', ''], 'pick': 12, 'archetype': 'ifeevulnerableeee', 'ids': {...}}"
+tokenattacks,shiftingsands,2021-12-14 07:35:55.694661
+tokenattacks,wakingsands,2021-12-14 07:35:55.694661
+reputationi,sharpenedress4,2021-12-14 07:35:55.694661
+reputationi,thornedbladefa,2021-12-14 07:35:55.694661
+esereputationsneeee,sandswepttomb,2021-12-14 07:35:55.694661,"{'cards': ['sandswepttomb', 'innersanctum', ''], 'pick': 13, 'archetype': 'esereputationsneeee', 'ids': {...}}"
+esereputationsneeee,innersanctum,2021-12-14 07:35:55.694661,"{'cards': ['sandswepttomb', 'innersanctum', ''], 'pick': 13, 'archetype': 'esereputationsneeee', 'ids': {...}}"
+vulnerable,razbloodmanewl,2021-12-14 07:35:55.694661
+vulnerable,callousbonecr,2021-12-14 07:35:55.695661
+lurkersa,ssllferalprescience,2021-12-14 07:35:55.695661
+lurkersa,aichronoshifty,2021-12-14 07:35:55.695661
+noxianmightps,armoredtuskr,2021-12-14 07:35:55.695661,"{'cards': ['armoredtuskr', 'trifarianshield', ''], 'pick': 14, 'archetype': 'noxianmightps', 'ids': {...}}"
+noxianmightps,trifarianshield,2021-12-14 07:35:55.695661,"{'cards': ['armoredtuskr', 'trifarianshield', ''], 'pick': 14, 'archetype': 'noxianmightps', 'ids': {...}}"
+sandandashes,emperorsdivideh,2021-12-14 07:35:55.695661
+sandandashes,wakingsands,2021-12-14 07:35:55.695661
+brutalitya,armoredtuskr,2021-12-14 07:35:55.695661
+brutalitya,etsavagereckoner,2021-12-14 07:35:55.695661
